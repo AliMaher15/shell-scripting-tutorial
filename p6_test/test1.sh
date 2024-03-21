@@ -1,4 +1,7 @@
 #!/bin/sh
+echo -en "type something: "
+read X
+
 if [ "$X" -lt "0" ]
 then
   echo "X is less than zero"

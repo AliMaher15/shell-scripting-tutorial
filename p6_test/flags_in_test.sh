@@ -1,4 +1,4 @@
-# -a, -e (both meaning "file exists"
+# -a, -e (both meaning "file exists")
 # -S (file is a Socket)
 # -ot (file is older than)
 # -nt (file is newer than)

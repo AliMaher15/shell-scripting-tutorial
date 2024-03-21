@@ -21,6 +21,7 @@ do
 	bye)
 		echo "See you again!"
 		break # break loop, jump after done
+		# can use "exit" to exit script completely
 		;;
 	*)
 		echo "Sorry, I don't understand"
